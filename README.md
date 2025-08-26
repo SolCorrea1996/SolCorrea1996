@@ -12,8 +12,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🔢 Set Ops
-[Set-ops](https://github.com/SolCorrea1996/set-ops)
+#### 🔢 [Set Ops](https://github.com/SolCorrea1996/set-ops)
 JavaScript functions that simulate set operations like union, intersection, and difference. A useful learning project to understand logic-based operations.
 
 #### 📦 [node-modules](https://github.com/SolCorrea1996/Node-Modules)
