@@ -32,6 +32,7 @@ A basic custom Alexa skill that interacts with the user. This project introduced
 #### ⏱️ [Closure-time-JavaScript](https://github.com/SolCorrea1996/Closure-time-JavaScript.git)
 Demonstrates my understanding of JavaScript closures and timer functions, including nested scopes and lexical environments.
 
+### 🚀 [Cloud-Project](https://github.com/SolCorrea1996/Cloud-project1.git)
 ---
 
 ### 🌐 Let's Connect!
