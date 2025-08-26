@@ -5,7 +5,7 @@
 🎓 Winthrop University, Class of 2025  
 🌎 Based in Rock Hill, SC | 🇺🇸 US Citizen  
 💬 Bilingual: English & Spanish  
-☁️ Passionate about Cloud Computing, Full-Stack Development & AI  
+☁️ Passionate about Cloud Computing, Full-Stack Development 
 
 ---
 
