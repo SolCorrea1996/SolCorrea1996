@@ -32,6 +32,9 @@ A basic custom Alexa skill that interacts with the user. This project introduced
 #### ⏱️ [Closure-time-JavaScript](https://github.com/SolCorrea1996/Closure-time-JavaScript.git)
 Demonstrates my understanding of JavaScript closures and timer functions, including nested scopes and lexical environments.
 
+####  🔢 [Sales Reporting System (C#, WPF)](https://github.com/SolCorrea1996/C-Project.git) 
+Built a desktop app that reads Excel spreadsheets and generates 18 different types of sales reports. Combines Windows interface design with Excel Interop and dictionary-based data structures
+
 ### 🚀 [Cloud-Project](https://github.com/SolCorrea1996/Cloud-project1.git)
 Demonstrates my understanding of Management database using my skills
 
