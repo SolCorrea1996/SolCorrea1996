@@ -34,8 +34,8 @@ Demonstrates my understanding of JavaScript closures and timer functions, includ
 
 ### 🚀 [Cloud-Project](https://github.com/SolCorrea1996/Cloud-project1.git)
 Demonstrates my understanding of Management database using my skills
----
 
+---
 ### 🌐 Let's Connect!
 
 - 📧 solangecorreah@outlook.com
