@@ -33,6 +33,7 @@ A basic custom Alexa skill that interacts with the user. This project introduced
 Demonstrates my understanding of JavaScript closures and timer functions, including nested scopes and lexical environments.
 
 ### 🚀 [Cloud-Project](https://github.com/SolCorrea1996/Cloud-project1.git)
+Demonstrates my understanding of Management database using my skills
 ---
 
 ### 🌐 Let's Connect!
