@@ -38,6 +38,9 @@ Built a desktop app that reads Excel spreadsheets and generates 18 different typ
 #### 🚀 [Cloud-Project](https://github.com/SolCorrea1996/Cloud-project1.git)
 Demonstrates my understanding of Management database using my skills
 
+#### 🎮 [Blackjack Game (C++)](https://github.com/SolCorrea1996/BlackJackGame-Project.git)
+A simple console Blackjack game where you play against the house. Includes wagering, card logic, and win/loss tracking.
+
 ---
 ### 🌐 Let's Connect!
 
