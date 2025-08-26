@@ -1,5 +1,5 @@
 ## Hi there 👋
-<!--
+
 # 👋 Hi, I'm Solange Daniela Correa Holguin
 
 🎓 Bachelor of Science in Computer Science, Minor in Mathematics  
