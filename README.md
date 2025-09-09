@@ -48,4 +48,4 @@ A simple console Blackjack game where you play against the house. Includes wager
 ### 🌐 Let's Connect!
 
 - 📧 solangecorreah@outlook.com
-- 💼 [LinkedIn](www.linkedin.com/in/solange-correa-074515348)
+- 💼 [LinkedIn](https://www.linkedin.com/in/solange-correa-074515348)
