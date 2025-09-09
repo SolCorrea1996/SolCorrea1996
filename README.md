@@ -27,7 +27,7 @@ Mini web-based project using event handling, DOM manipulation, and form validati
 A small lab focused on practicing JavaScript events (`onClick`, `onChange`) and working with form input dynamically.
 
 ####  🚀 [Reliable Data Transfer (RDT) Protocol Simulator](https://github.com/SolCorrea1996/Networking-Project-2.git)
-Python implementation of the Alternating Bit Protocol (rdt3.0) for reliable, in-order delivery over an unreliable network. Designed sender/receiver logic with checksums, ACK/NACK handling, and retransmission timers, and tested resilience against packet loss and corruption.
+Python implementation of the Alternating Bit Protocol (`rdt3.0`) for reliable, in-order delivery over an unreliable network. Designed sender/receiver logic with (`checksums`, `ACK/NACK`) handling, and retransmission timers, and tested resilience against packet loss and corruption.
 
 #### 🗣️ [Alexa-Skill](https://github.com/SolCorrea1996/Alexa-Skill.git)
 A basic custom Alexa skill that interacts with the user. This project introduced me to voice interface programming using Amazon Developer Tools.
