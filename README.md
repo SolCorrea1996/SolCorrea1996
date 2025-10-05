@@ -3,7 +3,7 @@
 
 🎓 Bachelor of Science in Computer Science, Minor in Mathematics  
 🎓 Winthrop University, Class of 2025  
-🌎 Based in Rock Hill, SC | 🇺🇸 US Citizen  
+🌎 Based in Rock Hill, SC | US Citizen  
 💬 Bilingual: English & Spanish  
 ☁️ Passionate about Cloud Computing, Full-Stack Development 
 
